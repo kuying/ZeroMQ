@@ -1,0 +1,1 @@
+gcc -Wall -lzmq -o bin/client HelloWorldClient.c
